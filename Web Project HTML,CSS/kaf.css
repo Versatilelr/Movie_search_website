@@ -1,0 +1,207 @@
+#head 
+{
+	
+	
+font-family: "Roboto" , sans-serif;
+}
+
+
+
+body {
+	
+	
+	padding:0;
+	margin:0;
+	font-family: "Roboto" , sans-serif;
+}
+ 
+ body {    
+      background-color: #4A3333;  
+	  
+    } 
+ 
+ 
+ 
+
+	#header
+{
+	background-image: url('images/num1.jpg');
+	height:100vh;
+	background-position:center;
+	margin: 0;
+	padding: 0;
+	background-size:cover;
+	color:black;
+}
+
+
+
+ul 
+{
+	list-style:none;
+	padding:0;
+	margin:0;
+	position:absolute;
+}
+
+
+li {
+	float:left;
+	margin-top:30px;
+}
+a {
+	width:150px;
+	display:block;
+	text-decoration:none;
+	font-size:20px;
+	text-align:center;
+	padding:10px;
+	
+	
+}
+
+
+    #header > h1 {      
+      padding: 30px;
+      margin: 0;
+	  
+    }
+	
+
+	
+	
+.menu {
+		float:left;
+		list-style:none;
+		margin: 20px;
+	}
+.menu li {
+	display:inline-block;
+margin:1px 1px;
+letter-spacing: 2px;	
+}
+	
+	menu
+{
+	float:left;
+	list-style:none;
+	margin-top: 30px;
+	background-color: #dddddd;
+	margin-left:100px;
+}
+
+.menu li a 
+{
+	color:#FFFDE1;
+	text-decoration: none;
+	padding: 5px 10px;
+	font-family: "Roboto" , sans-serif;
+	font-size: 15px;
+    
+}
+
+li {
+    float: left;
+		list-style-type:none;
+}
+
+li a {
+	background-color: #FF895D;
+    display: block;
+    padding: 10px;
+	
+   
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+.menu li a:hover
+{
+	border:1px solid black;
+}
+	
+	.menu li a 
+{
+	color:#FFFDE1;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Roboto" , sans-serif;
+	font-size: 15px;
+}
+
+.logo img
+   {
+	   margin:10px 50px;
+	   width: auto;
+	   
+	   float:right;
+   }
+   
+  .container {
+    position: relative;
+}
+
+
+.text-block {
+    position: absolute;
+    top: 310px;
+    left: 4px;
+    background-color: #FF6D24;
+	border:1px solid black;
+    opacity:0.6;
+	filter:alpha(opacity=60);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+	font-weight:bold;
+	color:#000000;
+} 
+
+
+.text-block2 {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: #FF6D24;
+	border:1px solid black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+	font-weight:bold;
+	color:#000000;
+	
+} 
+   
+  .text-block4
+   {
+    position: absolute;
+    bottom: 0px;
+    right: 20px;
+    background-color: #FF6D24;
+	border:1px solid black;
+    color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+	font-weight:bold;
+	color:#000000;
+} 
+
+
+.text-block5 {
+    position: absolute;
+    top: 240px;
+    left: 4px;
+    background-color: #FF6D24;
+	border:1px solid black;
+    opacity:0.6;
+	filter:alpha(opacity=60);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+	font-weight:bold;
+	color:#000000;
+} 
+
+ 
