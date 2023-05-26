@@ -3,7 +3,7 @@ The movie search site uses Reactjs to provide a smooth user experience with dyna
 
 #AUTHORS
 *Christos Papasteriou aka Versatilelr
-Email:cpapaster@gmail.com
+Email: cpapaster@gmail.com
 
 #DEPENDENCIES
 
