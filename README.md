@@ -2,7 +2,7 @@
 The movie search site uses Reactjs to provide a smooth user experience with dynamic loading of results. 
 
 #AUTHORS
-*Christos Papasteriou aka Versatilelr \
+Christos Papasteriou aka Versatilelr \
 Email: cpapaster@gmail.com \
 
 #DEPENDENCIES
