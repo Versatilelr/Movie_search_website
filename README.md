@@ -22,6 +22,5 @@ Email: cpapaster@gmail.com
 
 #CREDITS
 <p>
-  <br>
 Thanks to the kind and helpful people of stack overflow.
 </p>
