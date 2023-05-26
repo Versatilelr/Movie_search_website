@@ -5,7 +5,7 @@ The movie search site uses Reactjs to provide a smooth user experience with dyna
 <br>
 Christos Papasteriou aka Versatilelr
 Email: cpapaster@gmail.com
-</>
+</br>
 #DEPENDENCIES
 
     testing-library/jest-dom": "5.16.5"
