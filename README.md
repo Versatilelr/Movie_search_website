@@ -2,9 +2,10 @@
 The movie search site uses Reactjs to provide a smooth user experience with dynamic loading of results. 
 
 #AUTHORS
-Christos Papasteriou aka Versatilelr\ 
-Email: cpapaster@gmail.com\
-
+<br>
+Christos Papasteriou aka Versatilelr
+Email: cpapaster@gmail.com
+</>
 #DEPENDENCIES
 
     testing-library/jest-dom": "5.16.5"
